@@ -3,7 +3,7 @@
 
 [BioData Club](https://biodata-club.github.io/), the [OHSU Library](http://www.ohsu.edu/xd/education/library/), and BME are hosting a student and early career researcher roundtable discussion with Jeff Leek on **Thursday, May 11 from 10:00 to 11:00 AM in BICC 429**.  
 
-We'll be discussing Jeff's work and the current and future states of scientific communication!  
+We'll be discussing Jeff's work, and the current and future states of scientific communication!  
 
 To spark the conversation and introduce attendees to the concepts in Jeff's book, [How to Be a Modern Scientist](https://leanpub.com/modernscientist), BioData Club is organizing a short meet-up before the roundtable.
 
