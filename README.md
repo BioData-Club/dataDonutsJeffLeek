@@ -19,7 +19,7 @@ Here are a few questions to kick things off:
 * Do you agree with the strategies and benefits Jeff describes?  Tell us why or why not?
 * What barriers have you experienced when trying to share your data, use social media for science, or publish a preprint?
 
-#### Feel free create new issues to comment on addtional topics!
+#### Feel free create new issues to comment on addtional topics, and see you on Thursday!
 
 ![Morrissey, Donuts, Cats!](https://media.giphy.com/media/y6yU7FhhCbip2/giphy.gif)
 
