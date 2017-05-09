@@ -16,7 +16,7 @@ To kick things off we've posted an overview and some responses to three topics c
 Here are a few questions to kick things off:
 
 * Has your training prepared you to act on the practices Jeff recommends?  What are the gaps, and how can we help?
-* Do you agree with the strategies and benefits Jeff describes?  Tell us why or why not?
+* Do you agree with the strategies and benefits Jeff describes?  Tell us why or why not.
 * What barriers have you experienced when trying to share your data, use social media for science, or publish a preprint?
 
 #### Feel free to [create new issues](https://github.com/BioData-Club/dataDonutsJeffLeek/issues) to comment on additional topics, and see you on Thursday!
