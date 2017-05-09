@@ -8,4 +8,17 @@ To spark the conversation and introduce attendees to the concepts in Jeff's book
 
 #### Join us from 9:30 - 10:00 in BICC 429 to join the coversation!
 
-To kick things off we've posted an overview and some responses to three topics covered in the book:  **Data Sharing, Social Media, and Preprints**.  
+To kick things off we've posted an overview and some responses to three topics covered in the book:  **Data Sharing, Social Media, and Preprints**.
+
+#### Navigate to the Issues tab in this repository to read and contribute to the conversation.
+
+Here are a few questions to kick things off:
+
+* Has your training prepared you to act on the practices Jeff recommends?  What are the gaps, and how can we help?
+* Do you agree with the strategies and benefits Jeff describes?  Tell us why or why not?
+* What barriers have you experienced when trying to share your data, use social media for science, or publish a preprint?
+
+#### Feel free create new issues to comment on addtional topics!
+
+
+
