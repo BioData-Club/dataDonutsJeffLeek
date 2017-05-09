@@ -21,5 +21,6 @@ Here are a few questions to kick things off:
 
 #### Feel free create new issues to comment on addtional topics!
 
+![Morrissey, Donuts, Cats!](https://media.giphy.com/media/y6yU7FhhCbip2/giphy.gif)
 
 
