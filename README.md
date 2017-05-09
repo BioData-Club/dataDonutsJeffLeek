@@ -11,7 +11,7 @@ To spark the conversation and introduce attendees to the concepts in Jeff's book
 
 To kick things off we've posted an overview and some responses to three topics covered in the book:  **Data Sharing, Social Media, and Preprints**.
 
-#### Navigate to the Issues tab in this repository to read and contribute to the conversation, or just show up on Thursday.
+#### [Navigate to the Issues tab](https://github.com/BioData-Club/dataDonutsJeffLeek/issues) in this repository to read and contribute to the conversation, or just show up on Thursday.
 
 Here are a few questions to kick things off:
 
