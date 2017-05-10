@@ -1,7 +1,7 @@
 # Data & Doughnuts with [Dr. Jeff Leek](http://jtleek.com/)
 ![](https://media.giphy.com/media/8GZCwXrcpntcc/giphy.gif)
 
-[BioData Club](https://biodata-club.github.io/), the [OHSU Library](http://www.ohsu.edu/xd/education/library/), and BME are hosting a student and early career researcher roundtable discussion with Jeff Leek on **Thursday, May 11 from 10:00 to 11:00 AM in BICC 429**.  
+[BioData Club](https://biodata-club.github.io/), the [OHSU Library](http://www.ohsu.edu/xd/education/library/), and [BME](http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/) are hosting a student and early career researcher roundtable discussion with Jeff Leek on **Thursday, May 11 from 10:00 to 11:00 AM in BICC 429**.  
 
 We'll be discussing Jeff's work, and the current and future states of scientific communication!  
 
